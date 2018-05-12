@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6222
     wikipedia: http://en.wikipedia.org/wiki/Laurence_Oliphant_%28author%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16226#A-Journey-to-Katmandu--the-Capital-of-Napaul--with-the-Camp-of-Jung-Bahadoor--13-Including-a-_
 gutenberg_issued: '2005-07-06'
 gutenberg_type: Text
 identifiers:
